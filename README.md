@@ -1,4 +1,4 @@
-1.去除官方论坛链接 ![输入图片说明](https://images.github.com/uploads/images/2020/1224/210931_1850c8b4_7543132.png "屏幕截图.png")
+1.去除官方论坛链接 
 进入后台-运行-友情链接-删除 即可
 ![输入图片说明](https://images.github.com/uploads/images/2020/1224/204621_64fef5de_7543132.png "屏幕截图.png")
 
